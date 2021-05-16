@@ -1,0 +1,2 @@
+rootProject.name = "DragSwipe RV YTP"
+include ':app'
